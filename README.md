@@ -44,6 +44,8 @@ The following diagram provides a visual overview of the decision-making process 
 
 </details>
 
+---
+
 ## Files in this repository
 
 | File Name | Purpose |
@@ -66,3 +68,4 @@ The following diagram provides a visual overview of the decision-making process 
 This repo and its assets are licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 You may share this work with attribution for non-commercial purposes, but you may not remix or reuse it in derivative works.
+
