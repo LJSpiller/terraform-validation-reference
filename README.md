@@ -31,6 +31,19 @@ Each file focuses on a specific part of the validation process, and together the
 
 ---
 
+## Terraform validation process diagram
+
+The following diagram provides a visual overview of the decision-making process for validating Terraform configuration samples.
+
+<details>
+<summary><b>Click to expand validation flowchart</b></summary>
+
+<p align="center">
+  <img src="assets/terraform-validation.svg" alt="Terraform Validation Process" width="100%">
+</p>
+
+</details>
+
 ## Files in this repository
 
 | File Name | Purpose |
@@ -45,12 +58,11 @@ Each file focuses on a specific part of the validation process, and together the
 | **`08-terraform-scaling-example-full-validation.md`** | Terraform scaling validation example. |
 | **`09-what-is-terraform.md`** | An overview and introduction to Terraform. |
 | **`10-tools-for-terraform-validation.md`** | Tools and setup for Terraform validation. |
+| **`terraform-validation`** | Visual process diagram in .svg and .png formats. |
 
 ---
-
 ## License
 
 This repo and its assets are licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 You may share this work with attribution for non-commercial purposes, but you may not remix or reuse it in derivative works.
-
